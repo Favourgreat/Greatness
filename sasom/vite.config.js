@@ -20,6 +20,6 @@ exports.default = (0, vite_1.defineConfig)({
         // this ensures that the browser opens upon server start
         open: true,
         // this sets a default port to 3000  
-        port: 3000,
+        port: 80,
     },
 });
